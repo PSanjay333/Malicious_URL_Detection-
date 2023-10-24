@@ -1,2 +1,2 @@
-# Malicious_URL_Detection-
-A flask app to detect malicious url
+#Malicious URL Detection
+A Flask web application designed to identify malicious URLs.
